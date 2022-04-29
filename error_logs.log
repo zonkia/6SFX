@@ -1,0 +1,6 @@
+[2022-04-29 09:15:13,640][_retrieve_discovery_doc:280] URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+[2022-04-29 09:15:13,924][method:911] URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+[2022-04-29 09:15:14,065][new_request:183] Refreshing due to a 401 (attempt 1/2)
+[2022-04-29 09:15:14,065][_do_refresh_request:777] Refreshing access_token
+[2022-04-29 09:30:09,296][_retrieve_discovery_doc:280] URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+[2022-04-29 09:30:09,463][method:911] URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
